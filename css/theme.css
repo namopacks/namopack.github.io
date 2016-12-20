@@ -2079,13 +2079,13 @@ aside ul.nav-list > li > a {
 .slider-container .top-label {
 	color: #FFF;
 	font-size: 22px;
-	font-weight: 300;
+	font-weight: 400;
 }
 
 .slider-container .main-label {
 	color: #FFF;
-	font-size: 42px;
-	line-height: 42px;
+	font-size: 40px;
+	line-height: 40px;
 	font-weight: 700;
 	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
 }
@@ -2101,7 +2101,7 @@ aside ul.nav-list > li > a {
 .slider-container .bottom-label {
 	color: #FFF;
 	font-size: 20px;
-	line-height: 20px;
+	line-height: 25px;
 	font-weight: 300;
 }
 
