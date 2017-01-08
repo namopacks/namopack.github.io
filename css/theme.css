@@ -195,7 +195,7 @@ li {
 
 #header .header-column.header-column-center .header-logo {
 	width: 100% !important;
-	padding: 9px 0;
+	padding: 5px 0;
 }
 
 #header .header-logo {
@@ -208,7 +208,7 @@ li {
 	-moz-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 	position: relative;
-	margin: 15px 15px 15px 0;
+	margin: 25px 25px 25px 0;
 	top: 0;
 }
 
@@ -309,7 +309,7 @@ li {
 }
 
 #header.header-narrow .header-logo img {
-	margin: 12px 12px 12px 0;
+	margin: 5px 5px 5px 0;
 }
 
 #header.header-narrow .header-nav-main {
@@ -613,13 +613,13 @@ html:not(.sticky-header-active) #header.header-transparent-sticky-deactive .head
 
 	#header .header-nav-main nav > ul > li.dropdown-mega .dropdown-mega-sub-nav > li > a {
 		border: 0 none;
-		border-radius: 4px;
+		border-radius: 1px;
 		color: #777;
 		display: block;
-		font-size: 0.9em;
+		font-size: 0.8em;
 		font-weight: normal;
-		margin: 0 0 0 -8px;
-		padding: 3px 8px;
+		margin: 0 0 0 -5px;
+		padding: 2px 2px;
 		text-shadow: none;
 		text-transform: none;
 		text-decoration: none;
@@ -917,7 +917,7 @@ html:not(.sticky-header-active) #header.header-transparent-sticky-deactive .head
 		-webkit-transition: margin-top 0.2s;
 		-moz-transition: margin-top 0.2s;
 		transition: margin-top 0.2s;
-		margin-top: -10px;
+		margin-top: -7px;
 	}
 
 	#header .header-nav-main-effect-1 nav > ul > li.dropdown:hover > .dropdown-menu li a, #header .header-nav-main-effect-1 nav > ul > li.dropdown:hover .dropdown-mega-sub-nav li a {
@@ -1018,12 +1018,12 @@ html:not(.sticky-header-active) #header.header-transparent-sticky-deactive .head
 	}
 
 	#header .header-nav-main nav > ul li.dropdown-mega .dropdown-mega-sub-title {
-		margin-top: 10px;
+		margin-top: 7px;
 		display: block;
 	}
 
 	#header .header-nav-main nav > ul li.dropdown-mega .dropdown-mega-sub-nav {
-		margin: 0 0 0 20px;
+		margin: 0 0 0 10px;
 		padding: 0;
 		list-style: none;
 	}
@@ -1247,10 +1247,10 @@ html:not(.sticky-header-active) #header.header-transparent-sticky-deactive .head
 	}
 
 	#header .header-nav-main nav > ul > li.dropdown-mega.dropdown-mega-signin .dropdown-menu .dropdown-mega-sub-title {
-		font-size: 14px;
-		font-weight: 600;
+		font-size: 12px;
+		font-weight: 500;
 		text-transform: uppercase;
-		padding-top: 5px;
+		padding-top: 3px;
 		padding-bottom: 0;
 	}
 
