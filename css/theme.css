@@ -208,7 +208,7 @@ li {
 	-moz-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 	position: relative;
-	margin: 25px 25px 25px 0;
+	margin: 20px 20px 20px 0;
 	top: 0;
 }
 
@@ -2291,9 +2291,9 @@ section.section-custom-map-2 section.section {
 .home-intro p {
 	color: #FFF;
 	display: inline-block;
-	font-size: 1.4em;
+	font-size: 1.3em;
 	font-weight: 300;
-	max-width: 800px;
+	max-width: 850px;
 	padding-top: 5px;
 }
 
@@ -2306,7 +2306,7 @@ section.section-custom-map-2 section.section {
 
 .home-intro p em {
 	font-family: "Shadows Into Light", cursive;
-	font-size: 1.6em;
+	font-size: 1.5em;
 }
 
 .home-intro .get-started {
